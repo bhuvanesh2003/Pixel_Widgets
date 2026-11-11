@@ -1,0 +1,7 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memento Widgets</string>
+    <string name="life_widget_description">Life progress, refreshed daily</string>
+    <string name="quote_widget_description">Your favorite quotes</string>
+</resources>
